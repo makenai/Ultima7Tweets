@@ -1,0 +1,16 @@
+{
+  "name": "U7Tweets",
+  "version": "0.0.0",
+  "description": "Tweet out random lines from Ultima 7",
+  "main": "tweet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "twitter": "~0.2.9",
+    "express": "~4.0.0",
+    "cookie-parser": "~1.0.1"
+  }
+}
